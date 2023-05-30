@@ -1,0 +1,74 @@
+{
+  "drinks": [
+    {
+      "id": "0",
+      "name": "Awesome Frozen Fish",
+      "price": 15000,
+      "description": "Laudantium ipsam nesciunt qui accusamus adipisci assumenda.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=4941194513612800"
+    },
+    {
+      "id": "1",
+      "name": "Recycled Cotton Table",
+      "price": 20000,
+      "description": "Saepe neque esse sint eum impedit dolores enim velit enim.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=4272165413191680"
+    },
+    {
+      "id": "2",
+      "name": "Bespoke Plastic Chicken",
+      "price": 25000,
+      "description": "Error laborum earum perferendis sunt nisi laborum explicabo animi.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=102340919033856"
+    },
+    {
+      "id": "3",
+      "name": "Gorgeous Concrete Cheese",
+      "price": 30000,
+      "description": "Odit pariatur qui enim tempore.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=5218115612835840"
+    },
+    {
+      "id": "4",
+      "name": "Fantastic Soft Pizza",
+      "price": 35000,
+      "description": "Maiores cupiditate alias magni id labore unde.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=5592138177839104"
+    },
+    {
+      "id": "5",
+      "name": "Luxurious Wooden Mouse",
+      "price": 40000,
+      "description": "Dignissimos et labore illo laborum tempora.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=3188747292114944"
+    },
+    {
+      "id": "6",
+      "name": "Modern Rubber Cheese",
+      "price": 45000,
+      "description": "Sint doloribus aperiam harum sed architecto explicabo ut.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=6255447612850176"
+    },
+    {
+      "id": "7",
+      "name": "Elegant Metal Cheese",
+      "price": 50000,
+      "description": "Aliquid dolor id magni quibusdam ea placeat voluptate.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=5369258376691712"
+    },
+    {
+      "id": "8",
+      "name": "Incredible Granite Mouse",
+      "price": 55000,
+      "description": "Praesentium minus accusantium ab nostrum distinctio.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=2686040355635200"
+    },
+    {
+      "id": "9",
+      "name": "Small Steel Ball",
+      "price": 60000,
+      "description": "Doloremque commodi tempore cum voluptas.",
+      "image": "https://loremflickr.com/400/400/beverage?lock=4223069830774784"
+    }
+  ]
+}

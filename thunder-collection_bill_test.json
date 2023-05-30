@@ -1,0 +1,28 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "bill_test",
+    "dateExported": "2023-05-30T07:32:28.350Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "38f92007-2c62-4c1b-a1b8-d1942db6dce2",
+            "colId": "6424c763-d5ec-472a-b31f-40818359e08f",
+            "containerId": "",
+            "name": "http://localhost:3001/bills",
+            "url": "http://localhost:3001/bills",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-05-30T07:32:16.242Z",
+            "modified": "2023-05-30T07:32:16.242Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"items\": [\n    { \"drinkId\": \"0\", \"quantity\": 1 },\n    { \"drinkId\": \"1\", \"quantity\": 2 }\n  ]\n}\n",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}

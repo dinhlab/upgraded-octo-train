@@ -1,0 +1,16 @@
+[
+  {
+    "billId": "f8l79K7mS3TfKE2a1KI7g",
+    "items": [
+      {
+        "drinkId": "0",
+        "quantity": 1
+      },
+      {
+        "drinkId": "1",
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 55000
+  }
+]
